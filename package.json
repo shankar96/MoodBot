@@ -1,0 +1,16 @@
+{
+  "name": "moodbot",
+  "version": "1.0.0",
+  "description": "checkout your mood by inputing things going on your mind",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Shanky",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}

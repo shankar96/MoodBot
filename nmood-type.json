@@ -1,0 +1,135 @@
+{
+  "id": "1a533c6a-1c24-476a-9d60-402aa66c3500",
+  "name": "NMood-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Angry",
+      "synonyms": [
+        "Angry"
+      ]
+    },
+    {
+      "value": "Annoyed",
+      "synonyms": [
+        "Annoyed"
+      ]
+    },
+    {
+      "value": "Apathetic",
+      "synonyms": [
+        "Apathetic"
+      ]
+    },
+    {
+      "value": "Bad",
+      "synonyms": [
+        "Bad"
+      ]
+    },
+    {
+      "value": "Cranky",
+      "synonyms": [
+        "Cranky"
+      ]
+    },
+    {
+      "value": "Depressed",
+      "synonyms": [
+        "Depressed"
+      ]
+    },
+    {
+      "value": "Envious",
+      "synonyms": [
+        "Envious"
+      ]
+    },
+    {
+      "value": "Frustrated",
+      "synonyms": [
+        "Frustrated"
+      ]
+    },
+    {
+      "value": "Gloomy",
+      "synonyms": [
+        "Gloomy"
+      ]
+    },
+    {
+      "value": "Grumpy",
+      "synonyms": [
+        "Grumpy"
+      ]
+    },
+    {
+      "value": "Guilty",
+      "synonyms": [
+        "Guilty"
+      ]
+    },
+    {
+      "value": "Indifferent",
+      "synonyms": [
+        "Indifferent"
+      ]
+    },
+    {
+      "value": "Irritated",
+      "synonyms": [
+        "Irritated"
+      ]
+    },
+    {
+      "value": "Mad",
+      "synonyms": [
+        "Mad"
+      ]
+    },
+    {
+      "value": "Melancholy",
+      "synonyms": [
+        "Melancholy"
+      ]
+    },
+    {
+      "value": "Pessimistic",
+      "synonyms": [
+        "Pessimistic"
+      ]
+    },
+    {
+      "value": "Rejected",
+      "synonyms": [
+        "Rejected"
+      ]
+    },
+    {
+      "value": "Restless",
+      "synonyms": [
+        "Restless"
+      ]
+    },
+    {
+      "value": "Sad",
+      "synonyms": [
+        "Sad"
+      ]
+    },
+    {
+      "value": "Stressed",
+      "synonyms": [
+        "Stressed"
+      ]
+    },
+    {
+      "value": "Weird",
+      "synonyms": [
+        "Weird"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

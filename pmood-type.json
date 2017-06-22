@@ -1,0 +1,129 @@
+{
+  "id": "a240e024-43f5-4a1f-9285-79ad4b3564de",
+  "name": "PMood-type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Amused",
+      "synonyms": [
+        "Amused"
+      ]
+    },
+    {
+      "value": "Blissful",
+      "synonyms": [
+        "Blissful"
+      ]
+    },
+    {
+      "value": "Calm",
+      "synonyms": [
+        "Calm"
+      ]
+    },
+    {
+      "value": "Cheerful",
+      "synonyms": [
+        "Cheerful"
+      ]
+    },
+    {
+      "value": "Content",
+      "synonyms": [
+        "Content"
+      ]
+    },
+    {
+      "value": "Dreamy",
+      "synonyms": [
+        "Dreamy"
+      ]
+    },
+    {
+      "value": "Ecstatic",
+      "synonyms": [
+        "Ecstatic"
+      ]
+    },
+    {
+      "value": "Energetic",
+      "synonyms": [
+        "Energetic"
+      ]
+    },
+    {
+      "value": "Excited",
+      "synonyms": [
+        "Excited"
+      ]
+    },
+    {
+      "value": "Flirty",
+      "synonyms": [
+        "Flirty"
+      ]
+    },
+    {
+      "value": "Giddy",
+      "synonyms": [
+        "Giddy"
+      ]
+    },
+    {
+      "value": "Good",
+      "synonyms": [
+        "Good"
+      ]
+    },
+    {
+      "value": "Happy",
+      "synonyms": [
+        "Happy"
+      ]
+    },
+    {
+      "value": "Joyful",
+      "synonyms": [
+        "Joyful"
+      ]
+    },
+    {
+      "value": "Loving",
+      "synonyms": [
+        "Loving"
+      ]
+    },
+    {
+      "value": "Mellow",
+      "synonyms": [
+        "Mellow"
+      ]
+    },
+    {
+      "value": "Optimistic",
+      "synonyms": [
+        "Optimistic"
+      ]
+    },
+    {
+      "value": "Peaceful",
+      "synonyms": [
+        "Peaceful"
+      ]
+    },
+    {
+      "value": "Silly",
+      "synonyms": [
+        "Silly"
+      ]
+    },
+    {
+      "value": "Sympathetic",
+      "synonyms": [
+        "Sympathetic"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
