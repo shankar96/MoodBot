@@ -4,7 +4,7 @@
   "description": "checkout your mood by inputing things going on your mind",
   "main": "src/app.js",
   "scripts": {
-    "test": "test"
+    "start": "node src/app.js"
   },
   "author": "Shanky",
   "license": "ISC",
