@@ -1,6 +1,7 @@
 var express = require('express');
 const request = require('request');
 const Promise = require('bluebird');
+const privateInfo = require('../conf/private') 
 var app = express(); // here I use the express() method, instead of the createServer()
 
 
@@ -15,9 +16,9 @@ function sendToAPiAi(userquery) {
 	return new Promise(
 		function(resolve, reject) {
 		try{
-			var accessToken = "57d640e7bdbd47dfa7712f05e722c8a0";
+			var accessToken = privateInfo.API_AI_ACCESS_TOKEN;
 			var options = {
-				"url": "https://api.api.ai/v1/query?v=20150910",
+				"url": private.API_AI_URL,
 				"json": {
 					"query": userquery,
 					"lang": "eng",
